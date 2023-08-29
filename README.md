@@ -2,7 +2,6 @@
 Шифрование приватных ключей вашим паролем, и их расшифровка при необходимости.
 
 установка
-pip install csv
 pip install getpass
 pip install cryptography
 pip install web3
